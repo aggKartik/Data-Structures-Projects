@@ -1,0 +1,64 @@
+
+Random 100
+------------------------------------
+Number of swaps selection sort: 99	 Number of comparisons: 4950
+Number of swaps insertion sort: 2459	 Number of comparisons: 2360
+Number of swaps merge sort: 672		 Number of comparisons: 532
+Number of swaps quick sort: 374		 Number of comparisons: 741
+Number of swaps heap sort: 586		 Number of comparisons: 636
+
+Random 1000
+------------------------------------
+Number of swaps selection sort: 999	 Number of comparisons: 499500
+Number of swaps insertion sort: 247685	 Number of comparisons: 246686
+Number of swaps merge sort: 9976		 Number of comparisons: 8718
+Number of swaps quick sort: 5918		 Number of comparisons: 10411
+Number of swaps heap sort: 9074		 Number of comparisons: 9574
+
+First 90% is sorted 100
+------------------------------------
+Number of swaps selection sort: 99	 Number of comparisons: 4950
+Number of swaps insertion sort: 2747	 Number of comparisons: 2648
+Number of swaps merge sort: 672		 Number of comparisons: 543
+Number of swaps quick sort: 444		 Number of comparisons: 664
+Number of swaps heap sort: 574		 Number of comparisons: 624
+
+First 90% is sorted 1000
+------------------------------------
+Number of swaps selection sort: 999	 Number of comparisons: 499500
+Number of swaps insertion sort: 241350	 Number of comparisons: 240351
+Number of swaps merge sort: 9976		 Number of comparisons: 8732
+Number of swaps quick sort: 5847		 Number of comparisons: 10343
+Number of swaps heap sort: 9072		 Number of comparisons: 9572
+
+Few Unique ascending 100
+------------------------------------
+Number of swaps selection sort: 99	 Number of comparisons: 4950
+Number of swaps insertion sort: 444	 Number of comparisons: 345
+Number of swaps merge sort: 672		 Number of comparisons: 496
+Number of swaps quick sort: 3430		 Number of comparisons: 4203
+Number of swaps heap sort: 592		 Number of comparisons: 642
+
+Few Unique ascending 1000
+------------------------------------
+Number of swaps selection sort: 999	 Number of comparisons: 499500
+Number of swaps insertion sort: 48297	 Number of comparisons: 47298
+Number of swaps merge sort: 9976		 Number of comparisons: 8252
+Number of swaps quick sort: 182128		 Number of comparisons: 346454
+Number of swaps heap sort: 8902		 Number of comparisons: 9402
+
+Few Unique Descending 100
+------------------------------------
+Number of swaps selection sort: 99	 Number of comparisons: 4950
+Number of swaps insertion sort: 4497	 Number of comparisons: 4398
+Number of swaps merge sort: 672		 Number of comparisons: 483
+Number of swaps quick sort: 2175		 Number of comparisons: 4125
+Number of swaps heap sort: 542		 Number of comparisons: 592
+
+Few Unique Descending 1000
+------------------------------------
+Number of swaps selection sort: 999	 Number of comparisons: 499500
+Number of swaps insertion sort: 449449	 Number of comparisons: 448450
+Number of swaps merge sort: 9976		 Number of comparisons: 8038
+Number of swaps quick sort: 179521		 Number of comparisons: 356119
+Number of swaps heap sort: 8674		 Number of comparisons: 9174
